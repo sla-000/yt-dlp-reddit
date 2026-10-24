@@ -99,7 +99,7 @@ git push origin v0.1.1
 
 Если лень вводить команды в терминале:
 
-1. Откройте репозиторий на GitHub: `https://github.com/<username>/yt-dlp-reddit`.
+1. Откройте репозиторий на GitHub: `https://github.com/sla-000/yt-dlp-reddit`.
 2. Справа нажмите **Releases** -> **Draft a new release**.
 3. В поле **Choose a tag** введите новый тег (например, `v0.1.1`) и выберите `Create new tag: v0.1.1 on publish`.
 4. Введите заголовок релиза (например, `Release v0.1.1`) и кратко опишите изменения.

@@ -33,7 +33,7 @@ This plugin acts as a **transparent fallback wrapper** around `yt-dlp`'s built-i
 
 ### Method 1: Drop-in Zip (Recommended for Standalone Binaries)
 
-1. Download `yt-dlp-reddit.zip` from the latest [Release](https://github.com/sla0x00/yt-dlp-reddit/releases).
+1. Download `yt-dlp-reddit.zip` from the latest [Release](https://github.com/sla-000/yt-dlp-reddit/releases).
 2. Place the `.zip` file into your `yt-dlp` plugins directory:
    - **macOS / Linux**: `~/.yt-dlp/plugins/` (or `~/.config/yt-dlp/plugins/`)
    - **Windows**: `%APPDATA%/yt-dlp/plugins/`
@@ -45,7 +45,7 @@ This plugin acts as a **transparent fallback wrapper** around `yt-dlp`'s built-i
 If you installed `yt-dlp` in Python:
 
 ```bash
-pip install git+https://github.com/sla0x00/yt-dlp-reddit.git
+pip install git+https://github.com/sla-000/yt-dlp-reddit.git
 ```
 
 ### Method 3: Portable / Local Directory

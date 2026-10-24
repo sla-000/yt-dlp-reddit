@@ -8,7 +8,7 @@ version = "0.1.0"
 description = "yt-dlp extractor plugin for Reddit with Shreddit support"
 readme = "README.md"
 license = {text = "Unlicense"}
-authors = [{name = "sla0x00"}]
+authors = [{name = "sla-000"}]
 keywords = ["yt-dlp", "yt-dlp-plugins", "reddit", "shreddit", "video-downloader"]
 classifiers = [
     "Development Status :: 4 - Beta",
@@ -24,7 +24,7 @@ dependencies = [
 ]
 
 [project.urls]
-Homepage = "https://github.com/sla0x00/yt-dlp-reddit"
-Repository = "https://github.com/sla0x00/yt-dlp-reddit.git"
-Issues = "https://github.com/sla0x00/yt-dlp-reddit/issues"
+Homepage = "https://github.com/sla-000/yt-dlp-reddit"
+Repository = "https://github.com/sla-000/yt-dlp-reddit.git"
+Issues = "https://github.com/sla-000/yt-dlp-reddit/issues"
 
