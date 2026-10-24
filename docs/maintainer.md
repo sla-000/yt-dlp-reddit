@@ -144,3 +144,4 @@ git push origin v0.1.1
 
 # Готово! GitHub Actions сам создаст релиз и прикрепит zip.
 ```
+
