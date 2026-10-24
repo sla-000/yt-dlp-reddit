@@ -218,3 +218,4 @@ class _RedditPluginIE(RedditIE, plugin_name='shreddit'):
             if info:
                 return info
             raise
+
