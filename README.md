@@ -82,6 +82,12 @@ You should see:
 
 ---
 
+## Development & Maintenance
+
+See [docs/maintainer.md](docs/maintainer.md) for local testing and release guidelines.
+
+---
+
 ## License
 
 This project is released into the public domain under the [The Unlicense](LICENSE).
